@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^2.13.9",
-    "axios": "^0.17.0",
+    "axios": "^0.21.1",
     "babel-preset-env": "^1.6.0",
     "bootstrap-sweetalert": "^1.0.1",
     "create-react-class": "^15.6.2",
